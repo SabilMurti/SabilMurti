@@ -71,7 +71,7 @@ const sabil = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
-![Laravel Zero](https://img.shields.io/badge/Laravel_Zero-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel Zero](https://img.shields.io/badge/Laravel_Zero-00C853?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🎮 Game Development
 
@@ -91,7 +91,6 @@ const sabil = {
 
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0694A2?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
