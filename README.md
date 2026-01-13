@@ -125,7 +125,8 @@ const sabil = {
 
 <!-- Streak Stats -->
 <br/>
-<img src="https://streak-stats.demolab.com?user=SabilMurti&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabilMurti&theme=tokyonight&hide_border=true&border_radius=10)
 
 <!-- Activity Graph -->
 <br/>
