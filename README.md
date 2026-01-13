@@ -126,15 +126,12 @@ const sabil = {
 <!-- Streak Stats -->
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SabilMurti&theme=tokyonight&hide_border=true&border_radius=10)
-
 <!-- Activity Graph -->
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabilMurti&theme=tokyo-night&hide_border=true&radius=10" width="90%"/>
 
 <!-- Trophies -->
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=SabilMurti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%"/>
 
 </div>
 
