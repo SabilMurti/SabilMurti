@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sabil%20Murti&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descAlign=50" width="100%"/>
 
 <!-- Animated Typing -->
@@ -8,23 +9,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E96FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Turning+ideas+into+elegant+code+%F0%9F%92%BB;Curious+%26+greedy+learner+of+technology+%F0%9F%9A%80;Building+AI-powered+solutions+%E2%9C%A8)](https://git.io/typing-svg)
 
 <!-- Animated Wave -->
+
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <!-- Profile Views -->
+
 <img src="https://komarev.com/ghpvc/?username=SabilMurti&style=for-the-badge&color=6E96FF&label=PROFILE+VIEWS"/>
 
 <!-- Social Badges with Animation -->
 
-<br/><br/>
-<a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://murtix.my.id"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://github.com/SabilMurti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+`<br/><br/>`
+` <a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>``</a> `
+` <a href="https://murtix.my.id"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>``</a> `
+` <a href="https://github.com/SabilMurti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>``</a> `
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## `<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">` About Me
 
 ```javascript
 const sabil = {
@@ -48,7 +51,7 @@ const sabil = {
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## `<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">` Tech Stack
 
 <div align="center">
 
@@ -82,7 +85,7 @@ const sabil = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Project
+## `<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">` Featured Project
 
 <div align="center">
 
@@ -104,11 +107,12 @@ const sabil = {
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="25"> GitHub Stats
+## `<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="25">` GitHub Stats
 
 <div align="center">
 
 <!-- GitHub Profile Summary Cards - Alternative yang lebih reliable -->
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabilMurti&theme=tokyonight" width="90%"/>
 
 <br/>
@@ -122,14 +126,17 @@ const sabil = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabilMurti&theme=tokyonight" height="180"/>
 
 <!-- Streak Stats -->
+
 <br/>
 <img src="https://streak-stats.demolab.com?user=SabilMurti&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
 
 <!-- Activity Graph -->
+
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabilMurti&theme=tokyo-night&hide_border=true&radius=10" width="90%"/>
 
 <!-- Trophies -->
+
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=SabilMurti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%"/>
 
@@ -147,7 +154,7 @@ const sabil = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/output/github-snake-dark.svg" />
 </picture>
 
-<sub>⚠️ Snake animation requires GitHub Actions setup - see instructions below</sub>
+`<sub>`⚠️ Snake animation requires GitHub Actions setup - see instructions below`</sub>`
 
 </div>
 
@@ -167,9 +174,9 @@ const sabil = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false&bar_color=70a5fd&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312fhwb7x7wy3pxkexo6vmp4cb3y&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false&bar_color=70a5fd&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<sub>💡 Replace YOUR_SPOTIFY_ID with your Spotify username to enable</sub>
+`<sub>`💡 Replace YOUR_SPOTIFY_ID with your Spotify username to enable`</sub>`
 
 </div>
 
