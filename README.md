@@ -35,7 +35,7 @@ const sabil = {
 };
 ```
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 Currently working on **ERP System** (Internship) & **[Klore](https://github.com/SabilMurti/klore)**
 - 🌱 Exploring **AI/ML** for usage and implementation in projects
