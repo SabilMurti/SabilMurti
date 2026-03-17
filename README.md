@@ -159,7 +159,7 @@ const sabil = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/output/github-snake-dark.svg" />
 </picture>
 
-<sub>⚠️ Run the GitHub Actions workflow to generate the snake animation</sub>
+
 
 </div>
 
