@@ -60,16 +60,16 @@ Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a
 **🧠 AI & Orchestration Tools**  
 <br>
 
-__omp_shell("[Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)")
-__omp_shell("[OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)")
-__omp_shell("[Anthropic](https://img.shields.io/badge/Claude_&_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)")
-__omp_shell("[DeepSeek](https://img.shields.io/badge/DeepSeek_V4-4D4DFF?style=flat-square&logo=deepseek&logoColor=white)")
-__omp_shell("[Ollama](https://img.shields.io/badge/Local_LLMs-FFFFFF?style=flat-square&logo=ollama&logoColor=black)")
-__omp_shell("[LangChain](https://img.shields.io/badge/Agentic_Workflows-1C3C3C?style=flat-square&logo=langchain&logoColor=white)")
-__omp_shell("[Cursor](https://img.shields.io/badge/Cursor_/_Cline-000000?style=flat-square&logo=cursor&logoColor=white)")
-__omp_shell("[MCP](https://img.shields.io/badge/Model_Context_Protocol-8B5CF6?style=flat-square&logo=cogs&logoColor=white)")
-__omp_shell("[Oh My Pi](https://img.shields.io/badge/Oh_My_Pi_(omp)-FF3E00?style=flat-square&logo=terminal&logoColor=white)")
-__omp_shell("[9router](https://img.shields.io/badge/9router_AI_Proxy-00C853?style=flat-square&logo=router&logoColor=white)")
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_&_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_V4-4D4DFF?style=flat-square&logo=deepseek&logoColor=white)
+![Ollama](https://img.shields.io/badge/Local_LLMs-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
+![LangChain](https://img.shields.io/badge/Agentic_Workflows-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_/_Cline-000000?style=flat-square&logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-8B5CF6?style=flat-square&logo=cogs&logoColor=white)
+![Oh My Pi](https://img.shields.io/badge/Oh_My_Pi_(omp)-FF3E00?style=flat-square&logo=terminal&logoColor=white)
+![9router](https://img.shields.io/badge/9router_AI_Proxy-00C853?style=flat-square&logo=router&logoColor=white)
 
 </div>
 
