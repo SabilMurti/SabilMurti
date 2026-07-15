@@ -1,20 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=200&section=header&text=Sabil%20Murti&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 <div align="center">
-  <a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://murtix.my.id"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/SabilMurti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <h1>Hi, I'm Sabil Murti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h1>
+  <p><strong>Full Stack Developer • AI Integrator • Creator</strong></p>
+</div>
+
+<div align="center">
+  <a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://murtix.my.id"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/SabilMurti"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Next-Gen+Tools+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%E2%9C%A8;Solo+Dev+turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
-  </a>
-</div>
 
 ---
 
@@ -84,5 +83,5 @@ Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=100&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
