@@ -45,32 +45,31 @@ Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
 
-**Backend & Architecture**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,bootstrap,php,laravel,nodejs,mysql,postgres,mongodb,git,linux,docker,vscode,figma,postman&perline=10" />
+</a>
 
-**Database & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br><br>
 
-**AI Integration**  
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0694A2?style=for-the-badge&logo=tensorflow&logoColor=white)
+**🧠 AI & Orchestration Tools**  
+<br>
+
+__omp_shell("[Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)")
+__omp_shell("[OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)")
+__omp_shell("[Anthropic](https://img.shields.io/badge/Claude_&_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)")
+__omp_shell("[DeepSeek](https://img.shields.io/badge/DeepSeek_V4-4D4DFF?style=flat-square&logo=deepseek&logoColor=white)")
+__omp_shell("[Ollama](https://img.shields.io/badge/Local_LLMs-FFFFFF?style=flat-square&logo=ollama&logoColor=black)")
+__omp_shell("[LangChain](https://img.shields.io/badge/Agentic_Workflows-1C3C3C?style=flat-square&logo=langchain&logoColor=white)")
+__omp_shell("[Cursor](https://img.shields.io/badge/Cursor_/_Cline-000000?style=flat-square&logo=cursor&logoColor=white)")
+__omp_shell("[MCP](https://img.shields.io/badge/Model_Context_Protocol-8B5CF6?style=flat-square&logo=cogs&logoColor=white)")
+__omp_shell("[Oh My Pi](https://img.shields.io/badge/Oh_My_Pi_(omp)-FF3E00?style=flat-square&logo=terminal&logoColor=white)")
+__omp_shell("[9router](https://img.shields.io/badge/9router_AI_Proxy-00C853?style=flat-square&logo=router&logoColor=white)")
 
 </div>
 
