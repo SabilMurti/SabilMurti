@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sabil%20Murti&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=180&section=header&text=Sabil%20Murti&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descAlign=50" width="100%"/>
 
 <!-- Animated Typing -->
 
@@ -29,7 +29,7 @@
 const sabil = {
   location: "Indonesia 🇮🇩",
   role: "Full Stack Developer (Solo Dev)",
-  currentFocus: "AI Integration & ERP Development",
+  currentFocus: "Building Next-Gen Tools & Pormulir",
   passion: "Curious & greedy learner of technology",
   funFact: "I believe every codebase can become a reusable template ✨",
 };
@@ -38,7 +38,7 @@ const sabil = {
 <!--
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 
-- 🔭 Currently working on **[Klore](https://github.com/SabilMurti/klore)**
+- 🔭 Currently building **[Pormulir](https://pormulir.my.id/)** — AI-based form builder
 - 🌱 Exploring **AI/ML** for usage and implementation in projects
 - 💡 Creator of **Klore-Noir** — AI-powered project template engine
 - ⚡ Solo dev who loves turning complex problems into elegant solutions
@@ -100,19 +100,19 @@ const sabil = {
 
 <div align="center">
 
-### 🔮 [Klore-Noir](https://github.com/SabilMurti/klore)
+### ✨ [Pormulir](https://pormulir.my.id/)
 
-![AI Powered](https://img.shields.io/badge/AI_Powered-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![Template Engine](https://img.shields.io/badge/Template_Engine-00D4FF?style=for-the-badge&logo=github&logoColor=white)
+__omp_shell("[AI Powered](https://img.shields.io/badge/AI_Powered-FF6F61?style=for-the-badge&logo=openai&logoColor=white)")
+__omp_shell("[SaaS Platform](https://img.shields.io/badge/SaaS_Platform-00D4FF?style=for-the-badge&logo=react&logoColor=white)")
 
-**AI-powered project template engine**
+**Next-Generation AI-based Form Builder**
 
-> _"Turn any codebase into a reusable template in seconds. No more manual searching and replacing strings."_
+> _"Creating intelligent, dynamic forms in seconds with the power of AI."_
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/📦_View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabilMurti/klore)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sabilmurti.github.io/klore-web/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pormulir.my.id/)
+[![GitHub](https://img.shields.io/badge/📦_View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabilMurti/Pormulir)
 
 </div>
 
@@ -187,7 +187,7 @@ const sabil = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=100&section=footer" width="100%"/>
 
 ### 💜 Thanks for visiting!
 
