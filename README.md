@@ -1,16 +1,19 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18&height=180&section=header&text=Sabil%20Murti&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator&descAlignY=65&descAlign=50" width="100%" />
 </div>
 
-<div align="center">
-  <h1>Hi, I'm Sabil Murti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h1>
-  <p><strong>Full Stack Developer • AI Integrator • Creator</strong></p>
-</div>
+<br>
 
 <div align="center">
   <a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://murtix.my.id"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/SabilMurti"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Turning repetitive tasks into elegant AI-powered solutions."</i>
 </div>
 
 <br>
@@ -31,22 +34,22 @@ Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a
 ### 🚀 Featured Project: Pormulir
 
 <div align="center">
-  
-  [![Pormulir Banner](https://img.shields.io/badge/PORMULIR-AI_Form_Builder-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://pormulir.my.id/)
-
-  **Next-Generation AI-based Form Builder**  
-  _Create intelligent, dynamic, and responsive forms in seconds with the power of Artificial Intelligence._
-
-  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://pormulir.my.id/)
-  [![GitHub Repo](https://img.shields.io/badge/📦_Repository-100000?style=for-the-badge&logo=github)](https://github.com/SabilMurti/Pormulir)
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18&height=180&section=header&text=Sabil%20Murti&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator&descAlignY=65&descAlign=50" width="100%" />
 </div>
 
----
-
-### 🛠️ Tech Stack & Tools
+<br>
 
 <div align="center">
+  <a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://murtix.my.id"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/SabilMurti"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Turning repetitive tasks into elegant AI-powered solutions."</i>
+</div>
 
 <br>
 
@@ -77,7 +80,21 @@ Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a
 ### 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabilMurti&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18&height=180&section=header&text=Sabil%20Murti&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator&descAlignY=65&descAlign=50" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://murtix.my.id"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/SabilMurti"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Turning repetitive tasks into elegant AI-powered solutions."</i>
 </div>
 
 <br><br>
