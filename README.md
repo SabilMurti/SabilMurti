@@ -31,7 +31,7 @@ Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a
 - 💡 Creator of **[Klore-Noir](https://github.com/SabilMurti/klore)** — an AI-powered project template engine.
 - ⚡ **Fun fact**: I believe that every repetitive task is just begging to be automated by an AI agent.
 
-<br>
+<hr>
 
 ### 🚀 Featured Project: Pormulir
 
@@ -43,7 +43,7 @@ _Create intelligent, dynamic, and responsive forms in seconds with the power of 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square)](https://pormulir.my.id/)
 [![GitHub Repo](https://img.shields.io/badge/📦_Repository-100000?style=flat-square&logo=github)](https://github.com/SabilMurti/Pormulir)
 
-<br>
+<hr>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -67,7 +67,7 @@ _Create intelligent, dynamic, and responsive forms in seconds with the power of 
 ![Oh My Pi](https://img.shields.io/badge/Oh_My_Pi_(omp)-FF3E00?style=flat-square&logo=terminal&logoColor=white)
 ![9router](https://img.shields.io/badge/9router_AI_Proxy-00C853?style=flat-square&logo=router&logoColor=white)
 
-<br>
+<hr>
 
 ### 📈 Coding Activity
 
