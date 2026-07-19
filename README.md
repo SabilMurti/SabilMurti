@@ -6,7 +6,6 @@
 
 <div align="center">
 <a href="mailto:isabilmurti@gmail.com"><img src="https://badgen.net/badge/Email/Gmail/red?icon=https://simpleicons.org/icons/gmail.svg&labelColor=D14836" alt="Email" /></a>
-  <a href="https://murtix.my.id"><img src="https://badgen.net/badge/Website/Chrome/blue?icon=https://simpleicons.org/icons/googlechrome.svg&labelColor=4285F4" alt="Website" /></a>
   <a href="https://github.com/SabilMurti"><img src="https://badgen.net/badge/GitHub/SabilMurti/black?icon=github" alt="GitHub" /></a>
 </div>
 
