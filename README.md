@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  <a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://murtix.my.id"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/SabilMurti"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:isabilmurti@gmail.com"><img src="https://badgen.net/badge/Email/Gmail/red?icon=https://simpleicons.org/icons/gmail.svg&labelColor=D14836" alt="Email" /></a>
+  <a href="https://murtix.my.id"><img src="https://badgen.net/badge/Website/Chrome/blue?icon=https://simpleicons.org/icons/googlechrome.svg&labelColor=4285F4" alt="Website" /></a>
+  <a href="https://github.com/SabilMurti"><img src="https://badgen.net/badge/GitHub/SabilMurti/black?icon=github" alt="GitHub" /></a>
 </div>
 
 <br>
@@ -28,7 +28,6 @@ Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a
 
 - 🔭 Currently building **[Pormulir](https://pormulir.my.id/)** — an AI-based dynamic form builder.
 - 🌱 Deep diving into **AI Orchestration**, **Agentic Workflows**, and **ERP Development**.
-- 💡 Creator of **[Klore-Noir](https://github.com/SabilMurti/klore)** — an AI-powered project template engine.
 - ⚡ **Fun fact**: I believe that every repetitive task is just begging to be automated by an AI agent.
 
 <hr>
