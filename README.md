@@ -69,7 +69,7 @@ _Create intelligent, dynamic, and responsive forms in seconds with the power of 
 
 ### 📈 Coding Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SabilMurti&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=SabilMurti&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 
 </div>
 
