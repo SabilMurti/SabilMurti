@@ -26,7 +26,7 @@
 Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a deep passion for integrating AI into everyday software. I love turning complex logic into elegant, minimal, and highly functional platforms.
 
 - 🔭 Currently building **[Pormulir](https://pormulir.my.id/)** — an AI-based dynamic form builder.
-- 🌱 Deep diving into **AI Orchestration**, **Agentic Workflows**, and **ERP Development**.
+- 🌱 Deep diving into **AI Orchestration** and **Agentic Workflows**.
 - ⚡ **Fun fact**: I believe that every repetitive task is just begging to be automated by an AI agent.
 
 <hr>
