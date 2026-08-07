@@ -63,25 +63,18 @@ Building web apps, AI tooling, and MCP servers.
 
 ### 📊 Stats
 
+<!-- STATS: GitHub-Stats (jstrieb) uses specific URL hash to toggle CSS -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg">
-    <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg" alt="stats overview" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg">
-    <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg" alt="stats languages" />
-  </picture>
+  <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </p>
 
+<!-- STATS: 3D Contrib - fallback ke standard markdown untuk menghindari issue CDN HTML picture tag -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-light-sapphire.svg">
-    <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg" width="100%" alt="3d contribution calendar" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
 </p>
 
 ---
