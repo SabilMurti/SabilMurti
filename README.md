@@ -67,7 +67,7 @@ Building web apps, AI tooling, and MCP servers.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution calendar" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-customize.svg" width="100%" alt="3d contribution calendar" />
 </p>
 
 ---
