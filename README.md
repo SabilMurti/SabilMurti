@@ -21,6 +21,7 @@ Building web apps, AI tooling, and MCP servers.
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | [**Amneshia**](https://github.com/SabilMurti/Amneshia) | Zero-database long-term memory hub & knowledge graph for AI agents. SQLite FTS5 + BM25, MCP Bridge, Sleep Cycle consolidation, web dashboard. | TypeScript · SQLite · MCP |
+| [**Pormulir**](https://pormulir.my.id/) | Next-generation AI-based dynamic form builder. Create intelligent and responsive forms in seconds. | Laravel · React · Tailwind |
 | [**Seiza**](https://github.com/SabilMurti/Seiza) | Lightweight native TypeScript AI orchestration engine running as an MCP server with interactive web UI. | TypeScript · MCP |
 | [**Caria**](https://github.com/SabilMurti/Caria) | Compiled, AI-token-friendly scripting language. Native ELF via Cranelift AOT + WebAssembly. | Rust · Cranelift · WASM |
 | [**MitraXNine**](https://mitrax9.com/) | Real-time freelance marketplace platform. | Laravel · React · WebSockets |
@@ -73,8 +74,8 @@ Building web apps, AI tooling, and MCP servers.
 
 <!-- STATS: 3D Contrib using exact commit SHA for instant cache bust -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/fca01005f4f83cacb714955e823067699064ba75/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/fca01005f4f83cacb714955e823067699064ba75/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/4c09f156c2a15592819c82014796b249933f2cdc/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/4c09f156c2a15592819c82014796b249933f2cdc/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
 </p>
 
 ---
