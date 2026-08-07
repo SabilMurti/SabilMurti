@@ -72,6 +72,15 @@ Building web apps, AI tooling, and MCP servers.
   <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/2671a5bf62a765e31485edddc3c13bdd5979d975/languages.svg#gh-light-mode-only" />
 </p>
 
+<!-- STATS: Streak Stats (No Rounded Corners, Minimalist, matching github-stats style) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SabilMurti&theme=tokyonight&hide_border=false&border_radius=0&background=0d1117&border=e1e4e8&ring=3B82F6&fire=60A5FA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SabilMurti&theme=default&hide_border=false&border_radius=0&background=ffffff&border=e1e4e8&ring=2563EB&fire=3B82F6&currStreakNum=24292e&sideNums=24292e&currStreakLabel=586069&sideLabels=586069&dates=6a737d">
+    <img src="https://streak-stats.demolab.com/?user=SabilMurti&theme=tokyonight&hide_border=false&border_radius=0&background=0d1117&border=e1e4e8&ring=3B82F6&fire=60A5FA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  </picture>
+</p>
+
 ---
 
 ### 📬 Contact
