@@ -65,14 +65,14 @@ Building web apps, AI tooling, and MCP servers.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg">
-    <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg" alt="stats overview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg">
+    <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg" alt="stats overview" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg">
-    <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg" alt="stats languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg">
+    <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg" alt="stats languages" />
   </picture>
 </p>
 
