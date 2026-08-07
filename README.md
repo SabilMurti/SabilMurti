@@ -74,8 +74,8 @@ Building web apps, AI tooling, and MCP servers.
 
 <!-- STATS: 3D Contrib using exact commit SHA for instant cache bust -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/205e22ba469f90db7a0237753ff6fdabd23b2aa5/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/205e22ba469f90db7a0237753ff6fdabd23b2aa5/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/cc884157d712ec3e638b1ef297c3e0e4c3023e56/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/cc884157d712ec3e638b1ef297c3e0e4c3023e56/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
 </p>
 
 ---
