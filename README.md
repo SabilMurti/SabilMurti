@@ -1,57 +1,74 @@
-<div align="center">
+<!-- banner -->
+<img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=160&width=1600&density=18&bannerText=Sabil+Murti&textSize=56&textColor=%23ffffff&dropColor=%233B82F6&backgroundColor=%230d1117" alt="banner" />
 
-```
-╔══════════════════════════════════════╗
-║  Sabil Murti  ·  @SabilMurti        ║
-║  Building compilers. Shipping code. ║
-╚══════════════════════════════════════╝
-```
+<br/>
 
-**17 y/o · Jakarta, Indonesia**  
-Full Stack Developer · Language & Tooling Engineer · Game Dev since primary school
+<!-- intro row -->
+<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="night chill" />
 
-</div>
+### Hey, I'm Sabil — **@SabilMurti** 👋
 
----
+Full Stack Developer & AI Engineer from Jakarta, Indonesia 🇮🇩  
+17 y/o · SMK PPLG · Solo builder since primary school
 
-### What I build
+- 🤖 **AI side** — Integrator, Orchestrator architect, agent pipeline builder, MCP server creator. I use AI as infrastructure, not just a chatbot.
+- 🌐 **Web side** — Laravel + React full-stack, shipped commercial projects with real revenue.
+- 🎮 **Game side** — Published games on itch.io (Max2D & Godot) since elementary school.
+- 🎸 **Off-screen** — Ibanez electric guitar, old-school rock (White Lion era), gothic art.
 
-| Project | What it is |
-|---------|-----------|
-| **[Caria](https://github.com/SabilMurti/Caria)** | Compiled scripting language → native ELF + WASM via Cranelift (Rust) |
-| **[Amneshia](https://github.com/SabilMurti/Amneshia)** | Zero-database long-term memory hub for AI agents — SQLite FTS5 + BM25, MCP server, web dashboard |
-| **[Seiza](https://github.com/SabilMurti/Seiza)** | Lightweight AI orchestration engine — native TypeScript, MCP server, interactive web UI |
-| **MitraXNine** | First commercial project · Laravel + React + WebSockets · Rp 2.35jt revenue |
-| **Sabil RUNN / Murt!x** | Games shipped on itch.io — Max2D & Godot Engine, built in school |
+<br clear="right"/>
 
 ---
 
-### Stack
+### 🚀 Featured Projects
 
-```
-Languages   Rust · TypeScript · PHP · JavaScript · Caria (.cria)
-Backend     Laravel · Node.js
-Frontend    React · Tailwind CSS · Vite
-Runtime     Cranelift AOT · WebAssembly
-Database    SQLite · MySQL · PostgreSQL
-Tools       Git · Linux/WSL · MCP Protocol
-```
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [**Amneshia**](https://github.com/SabilMurti/Amneshia) | Zero-database long-term memory hub & knowledge graph for AI agents. SQLite FTS5 + BM25, MCP Bridge, Sleep Cycle consolidation, web dashboard. | TypeScript · SQLite · MCP |
+| [**Seiza**](https://github.com/SabilMurti/Seiza) | Lightweight native TypeScript AI orchestration engine running as an MCP server with interactive web UI. | TypeScript · MCP |
+| [**Caria**](https://github.com/SabilMurti/Caria) | Compiled, AI-token-friendly scripting language. Native ELF via Cranelift AOT + WebAssembly target. | Rust · Cranelift · WASM |
+| **MitraXNine** *(private)* | First commercial project. Real-time freelance platform, Rp 2.35jt revenue. | Laravel · React · Reverb WebSockets |
 
 ---
 
-### Stats
+### 🛠️ Languages & Tools
 
-<div align="center">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,rust,php,laravel,react,tailwind,vite,nodejs,mysql,sqlite,git,linux,docker&perline=7&theme=dark" />
+  </a>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=SabilMurti&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e3a5f&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabilMurti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&langs_count=6" height="150" />
-
-</div>
+**AI & Orchestration:**
+&nbsp;
+__omp_shell("[MCP](https://img.shields.io/badge/MCP_Protocol-8B5CF6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+&logoColor=white)")
+__omp_shell("[Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)")
+__omp_shell("[OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)")
+__omp_shell("[Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)")
 
 ---
 
-<div align="center">
+### 📊 Stats
 
-[isabilmurti@gmail.com](mailto:isabilmurti@gmail.com)
+<!-- github-stats (self-hosted, includes private repos) -->
+<p align="center">
+  <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="stats overview dark" />
+  <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="stats languages dark" />
+  <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="stats overview light" />
+  <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="stats languages light" />
+</p>
 
-</div>
+<!-- 3d contribution calendar -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-customize.svg" alt="3d contribution calendar" width="100%" />
+</p>
+
+---
+
+### 📬 Contact
+
+<p align="left">
+  <a href="mailto:isabilmurti@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="40" alt="email" /></a>
+  &nbsp;
+  <a href="https://github.com/SabilMurti"><img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="40" alt="github" /></a>
+</p>
