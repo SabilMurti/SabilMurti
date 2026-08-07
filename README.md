@@ -65,16 +65,16 @@ Building web apps, AI tooling, and MCP servers.
 
 <!-- STATS: GitHub-Stats (jstrieb) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg?v=1786095092#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg?v=1786095092#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg?v=1786095092#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg?v=1786095092#gh-light-mode-only" />
 </p>
 
 <!-- STATS: 3D Contrib - Dari Engine CUSTOM FORK -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg?v=1786095092#gh-dark-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-light-sapphire.svg?v=1786095092#gh-light-mode-only" width="100%" />
 </p>
 
 ---
