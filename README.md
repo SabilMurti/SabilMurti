@@ -63,18 +63,18 @@ Building web apps, AI tooling, and MCP servers.
 
 ### 📊 Stats
 
-<!-- STATS: GitHub-Stats (jstrieb) -->
+<!-- STATS: GitHub-Stats (jstrieb) using exact commit SHA for instant cache bust -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg?v=1786095092#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg?v=1786095092#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/overview.svg?v=1786095092#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/generated/languages.svg?v=1786095092#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/2671a5bf62a765e31485edddc3c13bdd5979d975/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/2671a5bf62a765e31485edddc3c13bdd5979d975/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/2671a5bf62a765e31485edddc3c13bdd5979d975/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/2671a5bf62a765e31485edddc3c13bdd5979d975/languages.svg#gh-light-mode-only" />
 </p>
 
-<!-- STATS: 3D Contrib - Dari Engine CUSTOM FORK -->
+<!-- STATS: 3D Contrib using exact commit SHA for instant cache bust -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg?v=1786095092#gh-dark-mode-only" width="100%" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-light-sapphire.svg?v=1786095092#gh-light-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/fca01005f4f83cacb714955e823067699064ba75/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/fca01005f4f83cacb714955e823067699064ba75/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
 </p>
 
 ---
