@@ -78,12 +78,9 @@ Building web apps, AI tooling, and MCP servers.
 
 <p align="center">
   <picture>
-    <!-- Tampilkan versi Night Green jika Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-green.svg">
-    <!-- Tampilkan versi Standard Green jika Light Mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-green.svg">
-    <!-- Fallback -->
-    <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-light-sapphire.svg">
+    <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg" width="100%" alt="3d contribution calendar" />
   </picture>
 </p>
 
