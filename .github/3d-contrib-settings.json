@@ -2,19 +2,10 @@
   "fileName": "profile-customize.svg",
   "width": 1800,
   "height": 450,
-  "backgroundColor": "#0d1117",
+  "backgroundColor": "#00000000",
   "foregroundColor": "#1e3a5f",
-  "strongColor": "#3B82F6",
-  "medarColor": "#60A5FA",
+  "strongColor": "#39d353",
+  "medarColor": "#26a641",
   "weekColor": "#1e3a5f",
-  "language": {
-    "TypeScript": "#2563EB",
-    "JavaScript": "#F59E0B",
-    "Rust": "#F97316",
-    "PHP": "#8B5CF6",
-    "Blade": "#6366F1",
-    "Shell": "#10B981",
-    "Python": "#3B82F6",
-    "HTML": "#EF4444"
-  }
+  "language": {}
 }
