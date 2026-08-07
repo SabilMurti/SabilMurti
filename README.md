@@ -1,5 +1,9 @@
 <!-- banner -->
-<img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=160&width=1600&density=18&bannerText=Sabil+Murti&textSize=56&textColor=%23ffffff&dropColor=%233B82F6&backgroundColor=%230d1117" alt="banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=160&width=1600&density=18&bannerText=Sabil+Murti&textSize=56&textColor=%23ffffff&dropColor=%233B82F6&backgroundColor=%230d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=160&width=1600&density=18&bannerText=Sabil+Murti&textSize=56&textColor=%23333333&dropColor=%233B82F6&backgroundColor=%23ffffff">
+  <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=160&width=1600&density=18&bannerText=Sabil+Murti&textSize=56&textColor=%23ffffff&dropColor=%233B82F6&backgroundColor=%230d1117" alt="banner" />
+</picture>
 
 ---
 
@@ -60,14 +64,27 @@ Building web apps, AI tooling, and MCP servers.
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg">
+    <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg" alt="stats overview" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg">
+    <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg" alt="stats languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-customize.svg" width="100%" alt="3d contribution calendar" />
+  <picture>
+    <!-- Tampilkan versi Night Green jika Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-green.svg">
+    <!-- Tampilkan versi Standard Green jika Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-green.svg">
+    <!-- Fallback -->
+    <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution calendar" />
+  </picture>
 </p>
 
 ---
