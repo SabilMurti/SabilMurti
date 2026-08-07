@@ -1,80 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,18&height=180&section=header&text=Sabil%20Murti&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator&descAlignY=65&descAlign=50" width="100%" />
+
+```
+╔══════════════════════════════════════╗
+║  Sabil Murti  ·  @SabilMurti        ║
+║  Building compilers. Shipping code. ║
+╚══════════════════════════════════════╝
+```
+
+**17 y/o · Jakarta, Indonesia**  
+Full Stack Developer · Language & Tooling Engineer · Game Dev since primary school
+
 </div>
-
-<br>
-
-<div align="center">
-<a href="mailto:isabilmurti@gmail.com"><img src="https://badgen.net/badge/Email/Gmail/red?icon=https://simpleicons.org/icons/gmail.svg&labelColor=D14836" alt="Email" /></a>
-  <a href="https://github.com/SabilMurti"><img src="https://badgen.net/badge/GitHub/SabilMurti/black?icon=github" alt="GitHub" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Turning repetitive tasks into elegant AI-powered solutions."</i>
-</div>
-
-<br>
 
 ---
 
-<div align="left">
+### What I build
 
-### 👨‍💻 About Me
+| Project | What it is |
+|---------|-----------|
+| **[Caria](https://github.com/SabilMurti/Caria)** | Compiled scripting language → native ELF + WASM via Cranelift (Rust) |
+| **[Amneshia](https://github.com/SabilMurti/Amneshia)** | Zero-database long-term memory hub for AI agents — SQLite FTS5 + BM25, MCP server, web dashboard |
+| **[Seiza](https://github.com/SabilMurti/Seiza)** | Lightweight AI orchestration engine — native TypeScript, MCP server, interactive web UI |
+| **MitraXNine** | First commercial project · Laravel + React + WebSockets · Rp 2.35jt revenue |
+| **Sabil RUNN / Murt!x** | Games shipped on itch.io — Max2D & Godot Engine, built in school |
 
-Hi there! I'm an independent Full Stack Developer from Indonesia 🇮🇩 with a deep passion for integrating AI into everyday software. I love turning complex logic into elegant, minimal, and highly functional platforms.
+---
 
-- 🔭 Currently building **[Pormulir](https://pormulir.my.id/)** — an AI-based dynamic form builder.
-- 🌱 Deep diving into **AI Orchestration** and **Agentic Workflows**.
-- ⚡ **Fun fact**: I believe that every repetitive task is just begging to be automated by an AI agent.
+### Stack
 
-<hr>
+```
+Languages   Rust · TypeScript · PHP · JavaScript · Caria (.cria)
+Backend     Laravel · Node.js
+Frontend    React · Tailwind CSS · Vite
+Runtime     Cranelift AOT · WebAssembly
+Database    SQLite · MySQL · PostgreSQL
+Tools       Git · Linux/WSL · MCP Protocol
+```
 
-### 🚀 Featured Project: Pormulir
+---
 
-[![Pormulir Banner](https://img.shields.io/badge/PORMULIR-AI_Form_Builder-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://pormulir.my.id/)
+### Stats
 
-**Next-Generation AI-based Form Builder**  
-_Create intelligent, dynamic, and responsive forms in seconds with the power of Artificial Intelligence._
+<div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=flat-square)](https://pormulir.my.id/)
-[![GitHub Repo](https://img.shields.io/badge/📦_Repository-100000?style=flat-square&logo=github)](https://github.com/SabilMurti/Pormulir)
-
-<hr>
-
-### 🛠️ Tech Stack & Tools
-
-**Core Technologies**  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,bootstrap,php,laravel,nodejs,mysql,postgres,mongodb,git,linux,docker,vscode,figma,postman&perline=10" />
-</a>
-
-<br>
-
-**🧠 AI & Orchestration Tools**  
-<br>
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_&_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek_V4-4D4DFF?style=flat-square&logo=deepseek&logoColor=white)
-![Ollama](https://img.shields.io/badge/Local_LLMs-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
-![LangChain](https://img.shields.io/badge/Agentic_Workflows-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_/_Cline-000000?style=flat-square&logo=cursor&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-8B5CF6?style=flat-square&logo=cogs&logoColor=white)
-![Oh My Pi](https://img.shields.io/badge/Oh_My_Pi_(omp)-FF3E00?style=flat-square&logo=terminal&logoColor=white)
-![9router](https://img.shields.io/badge/9router_AI_Proxy-00C853?style=flat-square&logo=router&logoColor=white)
-
-<hr>
-
-### 📈 Coding Activity
-
-<img src="https://streak-stats.demolab.com/?user=SabilMurti&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=SabilMurti&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e3a5f&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabilMurti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9&langs_count=6" height="150" />
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+[isabilmurti@gmail.com](mailto:isabilmurti@gmail.com)
+
 </div>
