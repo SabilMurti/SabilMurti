@@ -63,7 +63,7 @@ Building web apps, AI tooling, and MCP servers.
 
 ### 📊 Stats
 
-<!-- STATS: GitHub-Stats (jstrieb) uses specific URL hash to toggle CSS -->
+<!-- STATS: GitHub-Stats -->
 <p align="center">
   <img src="https://github.com/SabilMurti/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
@@ -71,10 +71,10 @@ Building web apps, AI tooling, and MCP servers.
   <img src="https://github.com/SabilMurti/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </p>
 
-<!-- STATS: 3D Contrib - fallback ke standard markdown untuk menghindari issue CDN HTML picture tag -->
+<!-- STATS: 3D Contrib - Default green themes -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only" width="100%" />
+  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/main/profile-3d-contrib/profile-green.svg#gh-light-mode-only" width="100%" />
 </p>
 
 ---
