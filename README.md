@@ -72,12 +72,6 @@ Building web apps, AI tooling, and MCP servers.
   <img src="https://raw.githubusercontent.com/SabilMurti/github-stats/2671a5bf62a765e31485edddc3c13bdd5979d975/languages.svg#gh-light-mode-only" />
 </p>
 
-<!-- STATS: 3D Contrib using exact commit SHA for instant cache bust -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/cc884157d712ec3e638b1ef297c3e0e4c3023e56/profile-3d-contrib/profile-night-sapphire.svg#gh-dark-mode-only" width="100%" />
-  <img src="https://raw.githubusercontent.com/SabilMurti/SabilMurti/cc884157d712ec3e638b1ef297c3e0e4c3023e56/profile-3d-contrib/profile-light-sapphire.svg#gh-light-mode-only" width="100%" />
-</p>
-
 ---
 
 ### 📬 Contact
