@@ -85,5 +85,6 @@ Building web apps, AI tooling, and MCP servers.
 
 ### 📬 Contact
 
+<a href="https://linkedin.com/in/sabilmurti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:isabilmurti@gmail.com"><img src="https://img.shields.io/badge/isabilmurti@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/sabil_murtix"><img src="https://img.shields.io/badge/@sabil__murtix-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
